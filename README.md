@@ -1,1 +1,14 @@
 # DSA Practice
+
+Solutions to LeetCode problems, written in Python.
+
+## Progress
+
+| # | Problem | Difficulty | Hint used? |
+|---|---------|-------------|------------|
+| 1480 | Running Sum of 1d Array | Easy | Yes |
+| 217 | Contains Duplicate | Easy | Yes |
+| 26 | Remove Duplicates from Sorted Array | Easy | Yes |
+| 283 | Move Zeroes | Easy | Yes |
+| 121 | Best Time to Buy and Sell Stock | Easy | Yes |
+| 1 | Two Sum | Easy | Yes |
