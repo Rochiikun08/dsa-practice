@@ -12,3 +12,5 @@ Solutions to LeetCode problems, written in Python.
 | 283 | Move Zeroes | Easy | Yes |
 | 121 | Best Time to Buy and Sell Stock | Easy | Yes |
 | 1 | Two Sum | Easy | Yes |
+| 242 | Valid Anagram | Easy | Yes |
+| 125 | Valid Palindrome | Easy | Yes |
