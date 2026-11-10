@@ -16,3 +16,5 @@ Solutions to LeetCode problems, written in Python.
 | 125 | Valid Palindrome | Easy | Yes |
 | 169 | Majority Element | Easy | Yes |
 | 169 | Majority Element Boyer Moore Algorithm | Easy | Yes |
+| 136 | Single Number | Easy | No |
+| 136 | Single Number XOR Rule | Easy | Yes |
