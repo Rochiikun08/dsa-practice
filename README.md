@@ -14,3 +14,5 @@ Solutions to LeetCode problems, written in Python.
 | 1 | Two Sum | Easy | Yes |
 | 242 | Valid Anagram | Easy | Yes |
 | 125 | Valid Palindrome | Easy | Yes |
+| 169 | Majority Element | Easy | Yes |
+| 169 | Majority Element Boyer Moore Algorithm | Easy | Yes |
