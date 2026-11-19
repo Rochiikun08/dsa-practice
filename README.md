@@ -18,3 +18,6 @@ Solutions to LeetCode problems, written in Python.
 | 169 | Majority Element Boyer Moore Algorithm | Easy | Yes |
 | 136 | Single Number | Easy | No |
 | 136 | Single Number XOR Rule | Easy | Yes |
+| 344 | Reverse String | Easy | Yes |
+| 66 | Plus One | Easy | Yes |
+| 14 | Longest Common Prefix | Moderately Easy | Yes |
