@@ -22,3 +22,5 @@ Solutions to LeetCode problems, written in Python.
 | 66 | Plus One | Easy | Yes |
 | 14 | Longest Common Prefix | Moderately Easy | Yes |
 | 387 | First Unique Character | Easy | Yes |
+| 88 | Merge Sorted Array | Easy | Yes |
+| 49 | Group Anagrams | Medium | Yes |
