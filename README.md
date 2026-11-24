@@ -24,3 +24,4 @@ Solutions to LeetCode problems, written in Python.
 | 387 | First Unique Character | Easy | Yes |
 | 88 | Merge Sorted Array | Easy | Yes |
 | 49 | Group Anagrams | Medium | Yes |
+| 383 | Ransom Note | Easy | Yes |
