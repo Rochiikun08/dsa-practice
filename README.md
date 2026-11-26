@@ -26,3 +26,4 @@ Solutions to LeetCode problems, written in Python.
 | 49 | Group Anagrams | Medium | Yes |
 | 383 | Ransom Note | Easy | Yes |
 | 219 | Contains Duplicate II | Easy | Yes |
+| 347 | Top K Frequent Elements | Medium | Yes |
