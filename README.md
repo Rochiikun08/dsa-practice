@@ -27,3 +27,4 @@ Solutions to LeetCode problems, written in Python.
 | 383 | Ransom Note | Easy | Yes |
 | 219 | Contains Duplicate II | Easy | Yes |
 | 347 | Top K Frequent Elements | Medium | Yes |
+| 205 | Isomorphic Strings | Easy | Yes |
